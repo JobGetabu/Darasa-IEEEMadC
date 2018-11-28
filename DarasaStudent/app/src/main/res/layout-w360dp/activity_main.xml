@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorgreyish"
+    android:orientation="vertical"
+    tools:context=".ui.MainActivity">
+
+    <include
+        android:id="@+id/main_no_class"
+        layout="@layout/noclass_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="visible"
+        />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginBottom="@dimen/mtrl_bottomappbar_height"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior"
+            >
+
+            <TextView
+                android:id="@+id/main_toolbartitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Showing: Thur,Sep 27, '18"
+                android:paddingStart="16dp"
+                android:paddingEnd="16dp"
+                android:paddingTop="8dp"
+                android:paddingBottom="8dp"
+                android:textAppearance="@style/ToolbarSubtitleAppearance"
+                android:background="@color/colorPrimary"
+                android:layout_marginBottom="4dp"
+                />
+
+            <include
+                android:id="@+id/main_user_list_info"
+                android:visibility="gone"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:layout_behavior="@string/appbar_scrolling_view_behavior"
+                layout="@layout/userinfo_layout"
+                />
+
+        </LinearLayout>
+
+    <!-- Other components and views -->
+
+    <android.support.design.bottomappbar.BottomAppBar
+        android:id="@+id/main_bar"
+        style="@style/Widget.MaterialComponents.BottomAppBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        app:backgroundTint="@color/colorwhitish"
+        app:fabAlignmentMode="center"
+        app:fabAttached="true"
+        app:fabCradleDiameter="0dp"
+        app:layout_scrollFlags="scroll|enterAlways"
+        app:navigationIcon="@drawable/ic_menu" />
+
+    <com.robertlevonyan.views.customfloatingactionbutton.FloatingActionButton
+        android:id="@+id/main_fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        app:fabIcon="@drawable/ic_add"
+        app:fabSize="normal"
+        app:fabText="Add new attendance"
+        app:layout_anchor="@+id/main_bar"
+        app:layout_anchorGravity="center"
+
+        />
+</android.support.design.widget.CoordinatorLayout>

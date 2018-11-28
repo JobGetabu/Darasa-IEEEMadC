@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!--Toolbar Text input style-->
+    <style name="ToolbarSubtitleAppearance" parent="@style/TextAppearance.Widget.AppCompat.Toolbar.Subtitle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+
+    <!--Style for Splash Screen-->
+    <style name="SplashScreenTheme" parent="AppTheme">
+        <item name ="android:windowBackground"> @drawable/splash_screen_background</item>
+    </style>
+
+    <style name="ChipTextStyle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#232323</item>
+        <item name="android:fontFamily">@font/nunito</item>
+    </style>
+
+</resources>

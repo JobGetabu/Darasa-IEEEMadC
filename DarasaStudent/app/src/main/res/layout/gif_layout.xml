@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/lightgrey">
+
+    <android.support.design.card.MaterialCardView
+        android:id="@+id/card_1"
+        style="@style/Widget.MaterialComponents.CardView"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="70dp"
+        android:layout_marginEnd="35dp"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="70dp"
+        android:minHeight="100dp"
+        android:minWidth="200dp"
+        android:paddingStart="8dp"
+        android:paddingEnd="8dp"
+        app:cardBackgroundColor="#FFFFFF"
+
+        app:cardCornerRadius="6dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <android.support.constraint.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+         <!--   <pl.droidsonroids.gif.GifImageView
+                android:id="@+id/gifImageView"
+                android:layout_width="0dp"
+                android:layout_height="400dp"
+                android:layout_marginBottom="8dp"
+                android:minHeight="400dp"
+                android:minWidth="250dp"
+                android:scaleType="fitCenter"
+                android:src="@raw/gif_darasa"
+                app:layout_constraintBottom_toTopOf="@+id/gif_gotit_btn"
+                app:layout_constraintDimensionRatio="w,16:9"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />-->
+
+            <com.airbnb.lottie.LottieAnimationView
+                android:id="@+id/animation_view"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_marginStart="8dp"
+                android:minHeight="400dp"
+                android:minWidth="250dp"
+                android:scaleType="centerCrop"
+                app:layout_constraintBottom_toTopOf="@+id/gif_gotit_btn"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:lottie_autoPlay="true"
+                app:lottie_loop="true"
+                app:lottie_rawRes="@raw/scan_qr_code_success" />
+
+            <android.support.design.button.MaterialButton
+                android:id="@+id/gif_gotit_btn"
+                style="@style/Widget.MaterialComponents.Button.TextButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:layout_marginEnd="16dp"
+                android:fontFamily="@font/nunito_semibold"
+                android:text="OK, GOT IT"
+                android:textAlignment="textStart"
+                android:textAllCaps="false"
+                android:textColor="@color/light_bluish"
+                android:textSize="18sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent" />
+
+        </android.support.constraint.ConstraintLayout>
+
+    </android.support.design.card.MaterialCardView>
+</android.support.constraint.ConstraintLayout>

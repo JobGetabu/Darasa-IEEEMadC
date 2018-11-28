@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home"
+        android:tint="#161616"
+        />
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@drawable/ic_settings"
+        android:tint="#161616"
+        android:title="@string/settings" />
+
+    <item
+        android:id="@+id/nav_share"
+        android:icon="@drawable/ic_add_user"
+        android:tint="#161616"
+        android:title="@string/invite_share" />
+
+
+</menu>
