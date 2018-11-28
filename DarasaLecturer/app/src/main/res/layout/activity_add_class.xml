@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:context=".ui.newlesson.AddClassActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <com.shuhart.stepview.StepView
+        android:id="@+id/add_class_step_view"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:sv_animationType="All"
+        app:sv_stepPadding="12dp"
+        app:sv_stepsNumber="6"
+        app:sv_typeface="@font/basic"
+        app:sv_background="@color/colorPrimary"
+        app:sv_selectedTextColor="@android:color/white"
+        app:sv_stepLineWidth="1dp"
+        app:sv_doneCircleRadius="12dp"
+        app:sv_selectedCircleRadius="12dp"
+        app:sv_selectedStepNumberColor="@color/colorPrimary"
+        app:sv_stepViewStyle="@style/StepView"
+        app:sv_doneCircleColor="@android:color/white"
+        app:sv_doneStepMarkColor="@color/colorPrimary"
+        app:sv_doneStepLineColor="@android:color/white"
+        app:sv_stepNumberTextSize="12sp"
+        />
+        <!--
+        js
+        app:sv_selectedCircleColor="@color/colorAccent"
+        app:sv_nextTextColor="@color/colorAccent"
+        app:sv_nextStepLineColor="@color/colorAccent"
+
+        -->
+    <FrameLayout
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:visibility="visible"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/add_class_step_view">
+
+        <com.job.darasalecturer.adapter.NoSwipePager
+            android:id="@+id/add_class_noswipepager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </FrameLayout>
+</android.support.constraint.ConstraintLayout>

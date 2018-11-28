@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.job.darasalecturer">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:name=".DarasaLec"
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:replace="android:icon">
+        <activity android:name=".ui.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ui.auth.WelcomeActivity" />
+        <activity
+            android:name=".ui.auth.LoginActivity"
+            android:parentActivityName=".ui.auth.WelcomeActivity" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version"
+            tools:replace="android:value" />
+        <meta-data
+            android:name="com.google.android.nearby.messages.API_KEY"
+            android:value="API_KEY HERE(Check README instruction of getting KEY)" />
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="API_KEY HERE(Check README instruction of getting KEY)" />
+
+        <activity
+            android:name=".ui.ScannerActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.SettingsActivity"
+            android:parentActivityName=".ui.MainActivity" />
+        <activity
+            android:name=".ui.auth.PasscodeActivity"
+            android:parentActivityName=".ui.SettingsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.auth.ShowPasscodeActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.AddAttendanceActivity"
+            android:parentActivityName=".ui.ScannerActivity" />
+        <activity
+            android:name=".ui.auth.SignupActivity"
+            android:parentActivityName=".ui.auth.WelcomeActivity" />
+        <activity
+            android:name=".ui.auth.AccountSetupActivity"
+            android:parentActivityName=".ui.SettingsActivity" />
+        <activity
+            android:name=".ui.newlesson.AddClassActivity"
+            android:parentActivityName=".ui.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ui.CurrentSetupActivity"
+            android:parentActivityName=".ui.SettingsActivity" />
+        <activity
+            android:name=".ui.FaqActivity"
+            android:parentActivityName=".ui.SettingsActivity" />
+        <activity android:name=".ui.AdvertiseActivity"/>
+        <activity android:name=".ui.AdvertClassActivity"
+
+            />
+    </application>
+
+</manifest>

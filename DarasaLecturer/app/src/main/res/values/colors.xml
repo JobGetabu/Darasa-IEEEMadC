@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#673BB7</color>
+    <color name="colorPrimaryDark">#512DA7</color>
+    <color name="colorAccent">#FF5521</color>
+
+    <color name="lightGrey">#B6B2B2</color>
+    <color name="colorAppBarGrey">#400233</color>
+
+    <color name="contentDividerLine">#e0e0e0</color>
+    <color name="greyish">#646464</color>
+    <color name="darkgreyish">#1e1e1e</color>
+    <color name="bluish">#1212fa</color>
+    <color name="darkbluish">#4b4bfd</color>
+
+    <color name="translucent">#c8ffffff</color>
+    <color name="accenttranslucent">#50000000</color>
+    <color name="primarytranslucent">#50673BB7</color>
+
+    <color name="colorhint">#a9aaac</color>
+    <color name="payGreen">#009688</color>
+    <color name="pay_bg">#E0E0E0</color>
+
+    <color name="dim">#8c000000</color>
+    <color name="greenb">#4D7BF3</color>
+    <color name="greenb2">#6F26FA</color>
+    <color name="greenb3">#1CB2D7</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="scan_blue">#2D7086</color>
+    <color name="scan_blue_1">#228794</color>
+    <color name="scan_blue_2">#52BFBD</color>
+    <color name="scan_blue_3">#63D3CC</color>
+
+    <color name="scan_orange">#FF8A16</color>
+
+    <color name="scan_t1">#D621AC</color>
+    <color name="scan_t2">#011958</color>
+    <color name="scan_t3">#FF8A16</color>
+    <color name="scan_t4">#FFFFFF</color>
+</resources>

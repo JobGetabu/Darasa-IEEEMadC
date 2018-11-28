@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.AddAttendanceActivity">
+
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/stud_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        app:subtitle="@string/for_studs_unable"
+        app:subtitleTextColor="#fff"
+        app:title="@string/confirm_attendance"
+        app:titleTextColor="@android:color/white" />
+
+    <HorizontalScrollView
+        android:id="@+id/stud_horizontalScrollView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/stud_toolbar">
+
+        <android.support.design.chip.ChipGroup
+            android:id="@+id/stud_chipgroup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="4dp"
+            app:singleLine="true">
+
+            <!-- Chips can be declared here, or added dynamically. -->
+
+            <android.support.design.chip.Chip
+                style="@style/Widget.MaterialComponents.Chip.Choice"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/nunito"
+                android:text="course"
+                android:visibility="gone"
+                app:iconEndPadding="4dp"
+                app:iconStartPadding="4dp"
+                tools:visibility="visible" />
+
+        </android.support.design.chip.ChipGroup>
+    </HorizontalScrollView>
+
+    <include
+        android:id="@+id/stud_no_student"
+        layout="@layout/nostudents_layout"
+        android:visibility="gone"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/stud_toolbar"
+        />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/stud_list"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toTopOf="@id/stud_save_btn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/stud_horizontalScrollView"
+        tools:listitem="@layout/single_attendance"
+        android:visibility="visible"
+        />
+
+    <android.support.design.button.MaterialButton
+        android:id="@+id/stud_save_btn"
+        android:layout_width="0dp"
+        style="@style/Widget.MaterialComponents.Button.UnelevatedButton"
+        android:layout_height="wrap_content"
+        android:text="Save Attendees"
+        android:visibility="gone"
+        tools:visibility="visible"
+        app:icon="@drawable/ic_checkmark"
+        app:iconPadding="8dp"
+        app:additionalPaddingLeftForIcon="32dp"
+        android:textAlignment="center"
+        android:gravity="center"
+        app:cornerRadius="0dp"
+        app:backgroundTint="@color/darkbluish"
+        app:rippleColor="@color/colorAccent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+</android.support.constraint.ConstraintLayout>

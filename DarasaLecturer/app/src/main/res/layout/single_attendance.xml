@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/attn_main"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <com.hbb20.GThumb
+        android:id="@+id/attn_gthumb"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        app:gtTextSize="26sp"
+        app:layout_constraintBottom_toTopOf="@+id/imageView3"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/attn_reg_no"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="14dp"
+        android:fontFamily="@font/nunito_bold"
+        android:singleLine="true"
+        android:text="C027-01-1234/2016"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toStartOf="@+id/attn_check_box"
+        app:layout_constraintStart_toEndOf="@+id/attn_gthumb"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/attn_stud_name"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="6dp"
+        android:fontFamily="@font/nunito_semibold"
+        android:singleLine="true"
+        android:text="Arnold Swazzniger"
+        android:textColor="@color/darkgreyish"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toStartOf="@+id/attn_check_box"
+        app:layout_constraintStart_toEndOf="@+id/attn_gthumb"
+        app:layout_constraintTop_toBottomOf="@+id/attn_reg_no" />
+
+    <cn.refactor.library.SmoothCheckBox
+        android:id="@+id/attn_check_box"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:layout_marginBottom="8dp"
+
+        android:layout_marginEnd="16dp"
+        android:layout_marginTop="16dp"
+        app:color_checked="@color/colorAccent"
+        app:color_tick="@android:color/white"
+        app:layout_constraintBottom_toTopOf="@+id/imageView3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:stroke_width="2dp" />
+
+    <!-- divider line -->
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginStart="94dp"
+        android:src="@color/contentDividerLine"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:visibility="gone"
+        tools:visibility="visible"
+        />
+
+
+</android.support.constraint.ConstraintLayout>
