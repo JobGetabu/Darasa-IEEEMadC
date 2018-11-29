@@ -1,19 +1,18 @@
 <p align="center">
   <a href="https://github.com/JobGetabu/Darasa-IEEEMadC">
-    <img src="https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/launcher.png" alt="Darasa" width=200 height=150>
+    <img src="https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/launcher.png" alt="Darasa" width=180 height=150>
   </a>
   <h3 align="center">Darasa</h3>
-
-  <p align="center">
-    Darasa project is a class attendance, monitoring and management system that comprise of two android applications and a web dashboard.<br><br>
-
-   Darasa Student app is an attendance-recording app that helps students confirm their class attendance. 
-As a Student, you will also be able to plan your schedule and classes easily with darasa timetable. <br><br>
-
-Darasa Lecturer app essentially helps the Lecturer plan their semester well ahead of time. It provides swift and easy way of creating and managing classes. On top, it allows you to track attendance of students in each unit/class you teach.
-    </p>
 </p>
-<br>
+<p align="center">
+    <h4>Darasa project is a class attendance, monitoring and management system that comprise of two android applications and a web      dashboard.<br></h4>
+</p>
+<p>
+   <h5>Darasa Student app is an attendance-recording app that helps students confirm their class attendance. 
+As a Student, you will also be able to plan your schedule and classes easily with darasa timetable. <br></h5>
+
+   <h5>Darasa Lecturer app essentially helps the Lecturer plan their semester well ahead of time. It provides swift and easy way of creating and managing classes. On top, it allows you to track attendance of students in each unit/class you teach.<br></h5>
+</p>
 
 ## Table of contents
 
@@ -32,19 +31,27 @@ Darasa Lecturer app essentially helps the Lecturer plan their semester well ahea
 
 
 <hr>
-### about project
-
 ### about Darasa Lecturer app
 With Darasa Lecturer app. A lecturer creates a class by providing information like unit name, unit code, course(s) that are taking the class. The semester and year, this unit is going to take place. The room the class will be taking place. During lesson time the lecturer forms a local network that capturers all student devices that are currently in the classroom to record and confirm their attendance.
 
+<hr>
 ### GENERAL PREVIEW DARASA LECTURER
+--------------photos
 
-### about app
-Short description of how it works: maybe a small user flow description.
-
+<hr>
 ### about Darasa Student app
 With Darasa Student app. A student will be able to plan for his/her classes well ahead of time as it displays the classes for the whole semester. On top, the student is able to scan for the lecturer’s network in order to confirm the attendance. The student is also able to receive special instructions from Lecturer and receive e-learning materials easily.
 
+### GENERAL PREVIEW DARASA STUDENT
+--------------photos
+
+<hr>
+### about Darasa Web dashboard
+With Darasa Web dashboard. The administration of the school are able to track the attendance of students. Track attendance of individual units, students and lecturers. With statistical charts and graphs managing the students is a delight again.
+
+<hr>
+### GENERAL PREVIEW DARASA WEB
+--------------photos
 <hr>
 ### GENERAL PREVIEW
 #### Screenshots of the app
