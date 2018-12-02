@@ -24,8 +24,8 @@ As a Student, you will also be able to plan your schedule and classes easily wit
 - [Permissions](#)
 - [Versions](#)
 - [Contact Information](#)
-- [Darasa Lecturer App](#https://github.com/tamzi/ML4Mobile/blob/master/notes.md)
-- [Darasa Student App](#https://github.com/tamzi/ML4Mobile/blob/master/notes.md)
+- [Darasa Lecturer App](#https://github.com/JobGetabu/Darasa-IEEEMadC/tree/master/DarasaLecturer)
+- [Darasa Student App](#https://github.com/JobGetabu/Darasa-IEEEMadC/tree/master/DarasaStudent)
 - [Darasa Web Dashboard](#https://github.com/JobGetabu/Darasa-IEEEMadC/tree/master/DarasaWeb)
 
 
@@ -58,13 +58,10 @@ With Darasa Web dashboard. The administration of the school are able to track th
 
 ### GENERAL PREVIEW
 #### Lecturer app preview
-You can have multiple images like below.
-
-<img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/1.jpg" width="200" align="center">
-
+<img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/1.jpg" width="200">
 
 #### Student app preview
-![3images](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/3screens.jpg)
+<img src="https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/StudAppVideo.gif">
 
 ##### student app is now available:
 ![WithExplanations](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/DARASA%20BANNER%20EDIT.png)
@@ -75,102 +72,62 @@ Is the app published? You can share a link as below:
 
 [![Download it on Google Play](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/gplay.png)](https://play.google.com/store/apps/details?id=com.package.path)
 
-<hr>
+
 ## Permissions
-* Any permissions needed by the app i.e:
 
 1. Internet
-2. Browse phone
+2. Network state
+3. Location 
 
-<hr>
-
-#### Running the project
-You can:
-
-    a. clone the project and compile it yourself in android studio(Most up to date)
-    b. Run the already compiled version on the(the proect comes with an apk folderwith various apk versions), 
-    c. You can check it out already compiled at Google Play(Mostly the one that is last to be published.)
-        Downoad it here: [Download App](https://play.google.com/store/apps/details?id=com.package.path)
-
-*include option c if you have published the app on the palystore.
-<hr>
-
-### TECHNICAL
-
-#### How to use
-
-**1. Required to run project:**
-       ` - To run this project use Android studio 3.* and later. It will be less messy.
-         - Gradle version used: gradle 4.0. You can use multiple gradle versions vby having them stored offline. [You can read this to set it up.](www.sth)
-        `
-
-**2. Clone this repository :**
- 
-         `git clone https://github.com/username/projectname.git`
-         
-**3. open Project in Android Studio
-
-**4. Build Project**
-
-**5. Incase of an eror when building project, update your gradle version, Build Tools download**
-
-
-#### Dependencies
 
 ## To Do List
 
 Add the various things that you are working on.  
 
-- [ ] Adding bounce animations to the home screen
-- [x] Creating a gallery
-- [x] Updating the App to gradle 4.0
-- [x] Praying that this thing works
-- [ ] Adding various potatoes to be eaten in the couch
-- [ ] Building a castle in the air
-- [ ] Listening to new music from my favourite artist
-
-
+- [ ] Adding scan animations to the Student scan screen
+- [x] Creating a Qr code
+- [ ] Updating the App to use AndroidX
+- [x] Updating theme to Material design components
+- [ ] Adding lecturer messaging to students
+- [ ] Adding notification screen in student app
+- [ ] Make web dashboard more reactive
 
 
 
 #### CONTRIBUTING
 ### Assets
-* Credit to artists(music,images,gifs...)
+* Credit to artists [images,gifs...](https://www.freepik.com/free-vector/student-reading-illustration_826080.htm)
 
 ### List of the Contributors on GitHub
-* [Contributors](https://github.com/username/projectName/graphs/contributors)
+* [Contributors](https://github.com/JobGetabu/Darasa-IEEEMadC/contributors)
 
 ### Want to contribute?
-I would/ We'd love to have your help in making  **{this app (replace with name of your project)}** better. The project is still very incomplete, but if there's an issue you'd like to see addressed sooner rather than later, let me(/us) know. 
+I would/ We'd love to have your help in making  **Darasa** better. The project is still very incomplete, but if there's an issue you'd like to see addressed sooner rather than later, let me(/us) know. 
 
-Before you contribute though read the contributing guide here: [COntributing.md{edit this}](https://github.com/YourUserNameHere/ProjectName/contributing.md)
+For any concerns, please open an [issue](https://github.com/JobGetabu/Darasa-IEEEMadC/issues), or JUST, [fork the project and send a pull request](https://github.com/JobGetabu/Darasa-IEEEMadC/pulls). 
 
-For any concerns, please open an [issue{edit this}](https://github.com/YourUserNameHere/ProjectName/issues), or JUST, [fork the project and send a pull request{edit this}](https://github.com/YourUserNameHere/ProjectName/pulls). 
-
-<hr>
 
 ## License 
 * see [LICENSE](https://github.com/YourUserNameHere/ProjectName/LICENSE.md) file
 
 
 ## Versions 
-* Version X.Y  DATE 12/2/2019
+### Lecturer app
+* Version 2.0  DATE 2/12/2018
+### Student app
+* Version 2.0  DATE 2/12/2018
 
 
 
 ## Contact information
-For personal feedback or questions feel free to contact me via the mail address, which is mentioned on my [Github profile](link (https://github.com/tamzi). If you have found any bugs or want to post a feature request please use the [bugtracker](https://github.com/tamzi/ReadMe-MasterTemplates/issues) to report them.
+For personal feedback or questions feel free to contact me via the mail address, which is mentioned on my [Github profile](link (https://github.com/JobGetabu). If you have found any bugs or want to post a feature request please use the [bugtracker](https://github.com/JobGetabu/Darasa-IEEEMadC/issues) to report them.
 
 
-#### Developer/Company
-* Homepage:  
-* e-mail: 
-* Twitter: [@yourtwitterhandle](https://twitter.com/yourTwitterHandle "YourName on twitter")
-* other communication channels i.e Social Media, Forum etc
+#### Developer
+* Homepage: [@About Me](http://jobgetabu.me/)
+* Twitter: [@job_getabu](https://twitter.com/job_getabu )
 
 
-<hr>
 
-If its open source:
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
