@@ -92,6 +92,8 @@ Add the various things that you are working on.
 - [ ] Make web dashboard more reactive
 
 
+### Promo Video
+[![Watch the video](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/DarasaPromosupershort.gif)](https://www.youtube.com/watch?v=W8b31sNxOVA)
 
 #### CONTRIBUTING
 ### Assets
@@ -107,7 +109,7 @@ For any concerns, please open an [issue](https://github.com/JobGetabu/Darasa-IEE
 
 
 ## License 
-* see [LICENSE](https://github.com/YourUserNameHere/ProjectName/LICENSE.md) file
+* see [LICENSE](https://github.com/JobGetabu/Darasa-IEEEMadC/LICENSE.md) file
 
 
 ## Versions 
