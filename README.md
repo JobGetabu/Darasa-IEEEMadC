@@ -46,31 +46,28 @@ With Darasa Student app. A student will be able to plan for his/her classes well
 ### GENERAL PREVIEW DARASA STUDENT
 ![3images](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/student%20screens.png)
 
-<hr>
+
 ### about Darasa Web dashboard
+
 With Darasa Web dashboard. The administration of the school are able to track the attendance of students. Track attendance of individual units, students and lecturers. With statistical charts and graphs managing the students is a delight again.
 
-<hr>
+
 ### GENERAL PREVIEW DARASA WEB
 <img src="https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/Dashboard.PNG">
 
-<hr>
+
 ### GENERAL PREVIEW
-#### Screenshots of the app
+#### Lecturer app preview
 You can have multiple images like below.
 
-<img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/1.jpg" width="200">
-<img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/2.jpg" width="200">
-<img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/3.jpg" width="200">
+<img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/1.jpg" width="200" align="center">
 
-##### Or combine 3 of them as:
+
+#### Student app preview
 ![3images](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/3screens.jpg)
 
-##### Or combine 2 of them as:
-![2images](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/2In1Mix.jpg)
-
-##### Or have image with a spoiller explanation:
-![WithExplanations](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/withexplanations.jpg)
+##### student app is now available:
+![WithExplanations](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/DARASA%20BANNER%20EDIT.png)
 
 
 #### App Stores
