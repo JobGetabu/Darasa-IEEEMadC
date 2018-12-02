@@ -61,7 +61,7 @@ With Darasa Web dashboard. The administration of the school are able to track th
 <img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/1.jpg" width="200">
 
 #### Student app preview
-<img src="https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/StudAppVideo.gif">
+<img src="https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/StudAppVideo.gif" width="200">
 
 ##### student app is now available:
 ![WithExplanations](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/DARASA%20BANNER%20EDIT.png)
