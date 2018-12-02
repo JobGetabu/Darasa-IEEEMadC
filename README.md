@@ -75,59 +75,25 @@ Is the app published? You can share a link as below:
 
 [![Download it on Google Play](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/gplay.png)](https://play.google.com/store/apps/details?id=com.package.path)
 
-<hr>
+
 ## Permissions
-* Any permissions needed by the app i.e:
 
 1. Internet
-2. Browse phone
+2. Network state
+3. Location 
 
-<hr>
-
-#### Running the project
-You can:
-
-    a. clone the project and compile it yourself in android studio(Most up to date)
-    b. Run the already compiled version on the(the proect comes with an apk folderwith various apk versions), 
-    c. You can check it out already compiled at Google Play(Mostly the one that is last to be published.)
-        Downoad it here: [Download App](https://play.google.com/store/apps/details?id=com.package.path)
-
-*include option c if you have published the app on the palystore.
-<hr>
-
-### TECHNICAL
-
-#### How to use
-
-**1. Required to run project:**
-       ` - To run this project use Android studio 3.* and later. It will be less messy.
-         - Gradle version used: gradle 4.0. You can use multiple gradle versions vby having them stored offline. [You can read this to set it up.](www.sth)
-        `
-
-**2. Clone this repository :**
- 
-         `git clone https://github.com/username/projectname.git`
-         
-**3. open Project in Android Studio
-
-**4. Build Project**
-
-**5. Incase of an eror when building project, update your gradle version, Build Tools download**
-
-
-#### Dependencies
 
 ## To Do List
 
 Add the various things that you are working on.  
 
-- [ ] Adding bounce animations to the home screen
-- [x] Creating a gallery
-- [x] Updating the App to gradle 4.0
-- [x] Praying that this thing works
-- [ ] Adding various potatoes to be eaten in the couch
-- [ ] Building a castle in the air
-- [ ] Listening to new music from my favourite artist
+- [ ] Adding scan animations to the Student scan screen
+- [x] Creating a Qr code
+- [ ] Updating the App to use AndroidX
+- [x] Updating theme to Material design components
+- [ ] Adding lecturer messaging to students
+- [ ] Adding notification screen in student app
+- [ ] Make web dashboard more reactive
 
 
 
@@ -145,32 +111,30 @@ I would/ We'd love to have your help in making  **{this app (replace with name o
 
 Before you contribute though read the contributing guide here: [COntributing.md{edit this}](https://github.com/YourUserNameHere/ProjectName/contributing.md)
 
-For any concerns, please open an [issue{edit this}](https://github.com/YourUserNameHere/ProjectName/issues), or JUST, [fork the project and send a pull request{edit this}](https://github.com/YourUserNameHere/ProjectName/pulls). 
+For any concerns, please open an [issue{edit this}](https://github.com/JobGetabu/Darasa-IEEEMadC/issues), or JUST, [fork the project and send a pull request{edit this}](https://github.com/JobGetabu/Darasa-IEEEMadC/pulls). 
 
-<hr>
 
 ## License 
 * see [LICENSE](https://github.com/YourUserNameHere/ProjectName/LICENSE.md) file
 
 
 ## Versions 
-* Version X.Y  DATE 12/2/2019
+### Lecturer app
+* Version 2.0  DATE 2/12/2018
+### Student app
+* Version 2.0  DATE 2/12/2018
 
 
 
 ## Contact information
-For personal feedback or questions feel free to contact me via the mail address, which is mentioned on my [Github profile](link (https://github.com/tamzi). If you have found any bugs or want to post a feature request please use the [bugtracker](https://github.com/tamzi/ReadMe-MasterTemplates/issues) to report them.
+For personal feedback or questions feel free to contact me via the mail address, which is mentioned on my [Github profile](link (https://github.com/JobGetabu). If you have found any bugs or want to post a feature request please use the [bugtracker](https://github.com/JobGetabu/Darasa-IEEEMadC/issues) to report them.
 
 
-#### Developer/Company
-* Homepage:  
-* e-mail: 
-* Twitter: [@yourtwitterhandle](https://twitter.com/yourTwitterHandle "YourName on twitter")
-* other communication channels i.e Social Media, Forum etc
+#### Developer
+* Homepage: [@job_getabu](http://jobgetabu.me/ "About Me")
+* Twitter: [@job_getabu](https://twitter.com/job_getabu "Job Getabu")
 
 
-<hr>
 
-If its open source:
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
