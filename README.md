@@ -24,9 +24,9 @@ As a Student, you will also be able to plan your schedule and classes easily wit
 - [Permissions](#)
 - [Versions](#)
 - [Contact Information](#)
-- [Darasa Lecturer App](#https://github.com/JobGetabu/Darasa-IEEEMadC/tree/master/DarasaLecturer)
-- [Darasa Student App](#https://github.com/JobGetabu/Darasa-IEEEMadC/tree/master/DarasaStudent)
-- [Darasa Web Dashboard](#https://github.com/JobGetabu/Darasa-IEEEMadC/tree/master/DarasaWeb)
+- [Darasa Lecturer App](https://github.com/JobGetabu/Darasa-IEEEMadC/tree/master/DarasaLecturer)
+- [Darasa Student App](https://github.com/JobGetabu/Darasa-IEEEMadC/tree/master/DarasaStudent)
+- [Darasa Web Dashboard](https://github.com/JobGetabu/Darasa-IEEEMadC/tree/master/DarasaWeb)
 
 
 
@@ -58,7 +58,7 @@ With Darasa Web dashboard. The administration of the school are able to track th
 
 ### GENERAL PREVIEW
 #### Lecturer app preview
-<img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/1.jpg" width="200">
+<img src="https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/LecAppVideo.gif" width="200">
 
 #### Student app preview
 <img src="https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/StudAppVideo.gif" width="200">
