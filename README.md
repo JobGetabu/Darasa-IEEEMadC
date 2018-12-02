@@ -110,7 +110,7 @@ For any concerns, please open an [issue](https://github.com/JobGetabu/Darasa-IEE
 
 
 ## License 
-* see [LICENSE](https://github.com/JobGetabu/Darasa-IEEEMadC/LICENSE.md) file
+* see [LICENSE](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/LICENSE) file
 
 
 ## Versions 
