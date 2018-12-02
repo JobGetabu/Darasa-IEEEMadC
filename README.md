@@ -30,20 +30,21 @@ As a Student, you will also be able to plan your schedule and classes easily wit
 
 
 
-<hr>
 ### about Darasa Lecturer app
+
 With Darasa Lecturer app. A lecturer creates a class by providing information like unit name, unit code, course(s) that are taking the class. The semester and year, this unit is going to take place. The room the class will be taking place. During lesson time the lecturer forms a local network that capturers all student devices that are currently in the classroom to record and confirm their attendance.
 
-<hr>
-### GENERAL PREVIEW DARASA LECTURER
---------------photos
 
-<hr>
+### GENERAL PREVIEW DARASA LECTURER
+![3images](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/lec_screens.png)
+
+
 ### about Darasa Student app
+
 With Darasa Student app. A student will be able to plan for his/her classes well ahead of time as it displays the classes for the whole semester. On top, the student is able to scan for the lecturer’s network in order to confirm the attendance. The student is also able to receive special instructions from Lecturer and receive e-learning materials easily.
 
 ### GENERAL PREVIEW DARASA STUDENT
---------------photos
+![3images](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/student%20screens.png)
 
 <hr>
 ### about Darasa Web dashboard
@@ -51,7 +52,8 @@ With Darasa Web dashboard. The administration of the school are able to track th
 
 <hr>
 ### GENERAL PREVIEW DARASA WEB
---------------photos
+<img src="https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/Dashboard.PNG">
+
 <hr>
 ### GENERAL PREVIEW
 #### Screenshots of the app
