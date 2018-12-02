@@ -30,45 +30,44 @@ As a Student, you will also be able to plan your schedule and classes easily wit
 
 
 
-<hr>
 ### about Darasa Lecturer app
+
 With Darasa Lecturer app. A lecturer creates a class by providing information like unit name, unit code, course(s) that are taking the class. The semester and year, this unit is going to take place. The room the class will be taking place. During lesson time the lecturer forms a local network that capturers all student devices that are currently in the classroom to record and confirm their attendance.
 
-<hr>
-### GENERAL PREVIEW DARASA LECTURER
---------------photos
 
-<hr>
+### GENERAL PREVIEW DARASA LECTURER
+![3images](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/lec_screens.png)
+
+
 ### about Darasa Student app
+
 With Darasa Student app. A student will be able to plan for his/her classes well ahead of time as it displays the classes for the whole semester. On top, the student is able to scan for the lecturer’s network in order to confirm the attendance. The student is also able to receive special instructions from Lecturer and receive e-learning materials easily.
 
 ### GENERAL PREVIEW DARASA STUDENT
---------------photos
+![3images](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/student%20screens.png)
 
-<hr>
+
 ### about Darasa Web dashboard
+
 With Darasa Web dashboard. The administration of the school are able to track the attendance of students. Track attendance of individual units, students and lecturers. With statistical charts and graphs managing the students is a delight again.
 
-<hr>
+
 ### GENERAL PREVIEW DARASA WEB
---------------photos
-<hr>
+<img src="https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/Dashboard.PNG">
+
+
 ### GENERAL PREVIEW
-#### Screenshots of the app
+#### Lecturer app preview
 You can have multiple images like below.
 
-<img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/1.jpg" width="200">
-<img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/2.jpg" width="200">
-<img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/3.jpg" width="200">
+<img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/1.jpg" width="200" align="center">
 
-##### Or combine 3 of them as:
+
+#### Student app preview
 ![3images](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/3screens.jpg)
 
-##### Or combine 2 of them as:
-![2images](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/2In1Mix.jpg)
-
-##### Or have image with a spoiller explanation:
-![WithExplanations](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/withexplanations.jpg)
+##### student app is now available:
+![WithExplanations](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/DARASA%20BANNER%20EDIT.png)
 
 
 #### App Stores
