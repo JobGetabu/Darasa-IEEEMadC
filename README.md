@@ -57,8 +57,10 @@ With Darasa Web dashboard. The administration of the school are able to track th
 
 
 ### GENERAL PREVIEW
-#### Lecturer app preview                                                 #### Student app preview
-<img src="https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/LecAppVideo.gif" width="300">                                                 <img src="https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/StudAppVideo.gif" width="300">
+#### Lecturer app preview                                                 
+<img src="https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/LecAppVideo.gif" width="300">                                                 
+#### Student app preview
+<img src="https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/StudAppVideo.gif" width="300">
 
 ##### student app is now available:
 ![WithExplanations](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/DARASA%20BANNER%20EDIT.png)
