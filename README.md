@@ -24,8 +24,8 @@ As a Student, you will also be able to plan your schedule and classes easily wit
 - [Permissions](#)
 - [Versions](#)
 - [Contact Information](#)
-- [Darasa Lecturer App](#https://github.com/tamzi/ML4Mobile/blob/master/notes.md)
-- [Darasa Student App](#https://github.com/tamzi/ML4Mobile/blob/master/notes.md)
+- [Darasa Lecturer App](#https://github.com/JobGetabu/Darasa-IEEEMadC/tree/master/DarasaLecturer)
+- [Darasa Student App](#https://github.com/JobGetabu/Darasa-IEEEMadC/tree/master/DarasaStudent)
 - [Darasa Web Dashboard](#https://github.com/JobGetabu/Darasa-IEEEMadC/tree/master/DarasaWeb)
 
 
@@ -58,13 +58,10 @@ With Darasa Web dashboard. The administration of the school are able to track th
 
 ### GENERAL PREVIEW
 #### Lecturer app preview
-You can have multiple images like below.
-
-<img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/1.jpg" width="200" align="center">
-
+<img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/1.jpg" width="200">
 
 #### Student app preview
-![3images](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/3screens.jpg)
+<img src="https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/StudAppVideo.gif">
 
 ##### student app is now available:
 ![WithExplanations](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/DARASA%20BANNER%20EDIT.png)
@@ -97,21 +94,17 @@ Add the various things that you are working on.
 
 
 
-
-
 #### CONTRIBUTING
 ### Assets
-* Credit to artists(music,images,gifs...)
+* Credit to artists [images,gifs...](https://www.freepik.com/free-vector/student-reading-illustration_826080.htm)
 
 ### List of the Contributors on GitHub
-* [Contributors](https://github.com/username/projectName/graphs/contributors)
+* [Contributors](https://github.com/JobGetabu/Darasa-IEEEMadC/contributors)
 
 ### Want to contribute?
-I would/ We'd love to have your help in making  **{this app (replace with name of your project)}** better. The project is still very incomplete, but if there's an issue you'd like to see addressed sooner rather than later, let me(/us) know. 
+I would/ We'd love to have your help in making  **Darasa** better. The project is still very incomplete, but if there's an issue you'd like to see addressed sooner rather than later, let me(/us) know. 
 
-Before you contribute though read the contributing guide here: [COntributing.md{edit this}](https://github.com/YourUserNameHere/ProjectName/contributing.md)
-
-For any concerns, please open an [issue{edit this}](https://github.com/JobGetabu/Darasa-IEEEMadC/issues), or JUST, [fork the project and send a pull request{edit this}](https://github.com/JobGetabu/Darasa-IEEEMadC/pulls). 
+For any concerns, please open an [issue](https://github.com/JobGetabu/Darasa-IEEEMadC/issues), or JUST, [fork the project and send a pull request](https://github.com/JobGetabu/Darasa-IEEEMadC/pulls). 
 
 
 ## License 
@@ -131,8 +124,8 @@ For personal feedback or questions feel free to contact me via the mail address,
 
 
 #### Developer
-* Homepage: [@job_getabu](http://jobgetabu.me/ "About Me")
-* Twitter: [@job_getabu](https://twitter.com/job_getabu "Job Getabu")
+* Homepage: [@About Me](http://jobgetabu.me/)
+* Twitter: [@job_getabu](https://twitter.com/job_getabu )
 
 
 
