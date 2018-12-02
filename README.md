@@ -67,10 +67,9 @@ With Darasa Web dashboard. The administration of the school are able to track th
 ![WithExplanations](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/DARASA%20BANNER%20EDIT.png)
 
 
-#### App Stores
-Is the app published? You can share a link as below:
+#### App Store
 
-[![Download it on Google Play](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/gplay.png)](https://play.google.com/store/apps/details?id=com.package.path)
+[![Download it on Google Play](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/gplay.png)](https://play.google.com/store/apps/details?id=com.job.darasastudent)
 
 
 ## Permissions
@@ -93,7 +92,7 @@ Add the various things that you are working on.
 - [ ] Make web dashboard more reactive
 
 
-### Promo Video
+### Promo Video (Click for full video)
 [![Watch the video](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/DarasaPromosupershort.gif)](https://www.youtube.com/watch?v=W8b31sNxOVA)
 
 #### CONTRIBUTING
@@ -133,7 +132,7 @@ For personal feedback or questions feel free to contact me via the mail address,
 * Twitter: [@job_getabu](https://twitter.com/job_getabu )
 
 ### Summary
-| [Darasa Lecturer app](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/apks/Darasa%20Lecturer.apk) | [Darasa Student app](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/apks/Darasa%20Student.apk) | Team Name: Darasa | Darasa project is a class attendance, monitoring and management system | [LICENSE](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/LICENSE) | Kenya | [Job Getabu](https://github.com/JobGetabu) |
+| [Darasa Lecturer app](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/apks/Darasa%20Lecturer.apk) | [Darasa Student app](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/apks/Darasa%20Student.apk) | Team Name: Darasa | Darasa project is a class attendance, monitoring and management system | [LICENSE](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/LICENSE) | Kenya | [Job Getabu](https://github.com/JobGetabu) | [Denis Mwaniki](https://github.com/sling254) | [Samwel Kamwana](https://github.com/kamwanasamwel)
 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
