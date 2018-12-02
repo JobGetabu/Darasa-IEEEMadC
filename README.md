@@ -84,7 +84,7 @@ Is the app published? You can share a link as below:
 
 Add the various things that you are working on.  
 
-- [ ] Adding scan animations to the Student scan screen
+- [x] Adding scan animations to the Student scan screen
 - [x] Creating a Qr code
 - [ ] Updating the App to use AndroidX
 - [x] Updating theme to Material design components
@@ -116,13 +116,16 @@ For any concerns, please open an [issue](https://github.com/JobGetabu/Darasa-IEE
 ## Versions 
 ### Lecturer app
 * Version 2.0  DATE 2/12/2018
+* [Download Darasa Lecturer app](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/apks/Darasa%20Lecturer.apk)
+
 ### Student app
-* Version 2.0  DATE 2/12/2018
+* Version 1.5  DATE 2/12/2018
+* [Download Darasa Student app](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/apks/Darasa%20Student.apk)
 
 
 
 ## Contact information
-For personal feedback or questions feel free to contact me via the mail address, which is mentioned on my [Github profile](link (https://github.com/JobGetabu). If you have found any bugs or want to post a feature request please use the [bugtracker](https://github.com/JobGetabu/Darasa-IEEEMadC/issues) to report them.
+For personal feedback or questions feel free to contact me via the mail address, which is mentioned on my [Github profile](https://github.com/JobGetabu). If you have found any bugs or want to post a feature request please use the [bugtracker](https://github.com/JobGetabu/Darasa-IEEEMadC/issues) to report them.
 
 
 #### Developer
